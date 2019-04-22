@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View Pager Example</string>
+
+    <string name="course_code">Course Code</string>
+    <string name="course_ects">Course ECTS</string>
+    <string name="course_description">Course Description</string>
+</resources>
